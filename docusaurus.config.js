@@ -1,7 +1,7 @@
 module.exports = {
   title: "TKSL Media Docs",
   tagline: "Documentation for TKSL Media processes",
-  url: "https://your-docusaurus-test-site.com",
+  url: "https://tkslmediadocs.netlify.app",
   baseUrl: "/",
   favicon: "img/favicon.ico",
   organizationName: "goodfortunetrustmedia", // Usually your GitHub org/user name.
