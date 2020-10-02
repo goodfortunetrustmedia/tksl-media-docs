@@ -13,7 +13,7 @@ module.exports = {
         alt: "Logo",
         src: "img/android-chrome-192x192.png",
       },
-      links: [
+      items: [
         {
           to: "docs/",
           activeBasePath: "docs",

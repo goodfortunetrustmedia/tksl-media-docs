@@ -69,6 +69,8 @@ Host rights allows the person to mute others, turn others’ video feeds off, an
 
 3. Type in the host key and click claim host (this is provided only to class hosts)
 
+The host key must be obtained from admins. Host key shown below is a dummy example.
+
 <img src={useBaseUrl('img/zoom-meet/hostkey.png')} />
 
 4. Congratulations, you are now the host.
